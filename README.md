@@ -36,7 +36,7 @@ The scripts will save the visualized clip.
 
 ### Visualized Image
 
-![assets](./assets/frame_0010_rec.png)
+![assets](./assets/demo.png)
 
 *Note: This is a demonstration. For higher accuracy, please customize the training strategy.*
 
